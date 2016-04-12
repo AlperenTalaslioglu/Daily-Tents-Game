@@ -22,10 +22,9 @@ public class Board {
 	 * 
 	 * My Algorithm : The algorithm is starting with placing tents validly. Then
 	 * add trees to these tents.
-	 * 
 	 * Steps: 1 - Random and validly place tents to empty board until completion
 	 * of placement of all tents 
-     * Step 2 - After placement of tents, add trees to
+         * Step 2 - After placement of tents, add trees to
 	 * all of these trees one by one
 	 * 
 	 * 
