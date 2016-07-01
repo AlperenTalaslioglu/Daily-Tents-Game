@@ -2,6 +2,8 @@
 
 Java Implementation of Daily Tents Game
 
+Can you find all of the tents in the forest?
+
 Original game : https://www.brainbashers.com/tents.asp
 
 Screnshots :
